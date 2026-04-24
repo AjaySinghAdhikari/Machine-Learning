@@ -1,0 +1,37 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Trained model files
+*.pkl
+*.joblib
+*.h5
+*.model
+
+# Data files (add your own datasets locally)
+*.csv
+*.xlsx
+*.json
+!sample_data/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor configs
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
