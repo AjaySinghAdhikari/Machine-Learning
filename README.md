@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-A collection of supervised machine learning projects built with Python and scikit-learn, covering classification tasks across healthcare and finance domains.
+A collection of supervised machine learning projects built with Python and scikit-learn, covering classification tasks across healthcare and finance domains. Crafting models for your financial and health requirements.
 
 ---
 
